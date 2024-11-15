@@ -69,6 +69,11 @@ https://securityboat.net/
 50% off all services with code `BLACKFRIDAY2024` in email subject to sales@securityboat.net \
 Deal Ends: 20th December
 
+**Haxore** - Automated Vulnerability Scanner and Rapid-Breach-Assessment 4M Scanner
+https://haxore.com/
+Here’s how to claim your discount: 📧 Use code: SECURE40 in the subject line when email to demo@haxore.com
+Deal Close: 11th December
+
 ## Tools
 **PortDroid** - A swiss army knife of network security tools for Android \
 https://portdroid.net/black-friday-2024/  
